@@ -1,0 +1,3 @@
+{"position_1":"#00FFFF",
+"position_2":"#FF0000"
+}
